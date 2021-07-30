@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
             val addLambda = {sum1:Int, sum2:Int -> sum1 + sum2}
             val result = addLambda(int1, int2)
 
